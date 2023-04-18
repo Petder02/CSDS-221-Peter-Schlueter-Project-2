@@ -1,2 +1,3 @@
 # CSDS-221-Peter-Schlueter-Project-2
-Created with CodeSandbox
+
+A todo list application created using Vue.js
